@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a99ad6e-f3e1-4f24-a14f-73f1d44325a0" name="Default Changelist" comment="" />
+    <list default="true" id="5a99ad6e-f3e1-4f24-a14f-73f1d44325a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/dc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dc/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dc/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#76#77#0" expanded="true" />
-                <element signature="e#112#113#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="176">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -83,7 +81,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1627227446711" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1627227633456" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,12 +144,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/dc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#76#77#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
